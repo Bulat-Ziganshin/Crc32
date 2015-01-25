@@ -1,4 +1,4 @@
-# Crc32
+# Crc32: slice-by-16 is the fastest algorithm
 ```
 
 C:\Testing\Crc32>Crc32_vc2013_x64.exe
