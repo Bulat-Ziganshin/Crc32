@@ -76,5 +76,24 @@ Please wait ...
 2*8 bytes at once: CRC=00EE2DAA, 0.399s, 2566.416 MB/s
 4*8 bytes at once: CRC=00EE2DAA, 0.396s, 2585.859 MB/s
 chunked        : CRC=00EE2DAA, 0.556s, 1841.727 MB/s
+
+C:\Testing\Crc32>Crc32_gcc345_x86.exe
+Please wait ...
+ 88 bytes at once: CRC=00EE2DAA, 0.457s, 2240.700 MB/s
+  1 byte  at once: CRC=00EE2DAA, 2.293s, 446.577 MB/s
++  4 bytes at once: CRC=17560371, 0.868s, 1179.724 MB/s
++2*4 bytes at once: CRC=17560371, 0.867s, 1181.084 MB/s
++4*4 bytes at once: CRC=17560371, 0.854s, 1199.063 MB/s
++  8 bytes at once: CRC=17560371, 0.535s, 1914.019 MB/s
++2*8 bytes at once: CRC=17560371, 0.560s, 1828.571 MB/s
++4*8 bytes at once: CRC=17560371, 0.532s, 1924.812 MB/s
+  4 bytes at once: CRC=00EE2DAA, 0.851s, 1203.290 MB/s
+2*4 bytes at once: CRC=00EE2DAA, 0.855s, 1197.661 MB/s
+4*4 bytes at once: CRC=00EE2DAA, 0.879s, 1164.960 MB/s
+  8 bytes at once: CRC=00EE2DAA, 0.433s, 2364.896 MB/s
+ 16 bytes at once: CRC=00EE2DAA, 0.371s, 2760.108 MB/s
+2*8 bytes at once: CRC=00EE2DAA, 0.441s, 2321.995 MB/s
+4*8 bytes at once: CRC=00EE2DAA, 0.441s, 2321.995 MB/s
+chunked        : CRC=00EE2DAA, 0.428s, 2392.523 MB/s
 ```
 
