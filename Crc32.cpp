@@ -2,7 +2,7 @@
 // Crc32.cpp
 // Copyright (c) 2011-2013 Stephan Brumme. All rights reserved.
 // see http://create.stephan-brumme.com/disclaimer.html
-//
+// Slice-by-16 code added by Bulat Ziganshin
 
 // g++ -o Crc32 Crc32.cpp -O3 -march=native -mtune=native
 
